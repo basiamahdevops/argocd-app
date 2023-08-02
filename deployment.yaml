@@ -18,6 +18,6 @@ spec:
     spec:
       containers:
         - name: nginx
-          image: autoking777/nginx:v0.1.0
+          image: autoking777/nginx:1.24.0
           ports:
             - containerPort: 80
